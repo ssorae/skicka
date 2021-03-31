@@ -541,7 +541,7 @@ func printUsageAndExit() {
 ///////////////////////////////////////////////////////////////////////////
 // OAuth
 
-const clientId = "952282617835-siotrfjbktpinek08hrnspl33d9gho1e.apps.googleusercontent.com"
+const clientId = "926614699704-i8sm9fuhq295urlbj9vtqmb86kg7avm3.apps.googleusercontent.com"
 
 func getOAuthClient(tokenCacheFilename string, tryBrowserAuth bool,
 	transport http.RoundTripper) (*http.Client, error) {
